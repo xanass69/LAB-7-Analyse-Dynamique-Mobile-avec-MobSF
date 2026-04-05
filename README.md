@@ -32,8 +32,3 @@ Ce projet documente l'analyse dynamique de l'application volontairement vulnéra
 
 
 
-
-
-```bash
-# Créer un AVD avec Android 11 (API 30) sans Google Play
-# Via Android Studio : Tools → AVD Manager → Create Virtual Device
